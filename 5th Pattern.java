@@ -13,7 +13,7 @@ public class Pattern {
         }
     }
 }
-
+ 
 // Output (Inverted Half Pyramid Rotated by 180 degree)
 //         *
 //       * *
