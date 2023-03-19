@@ -11,7 +11,7 @@ class Pattern {
     }
 }
 
-// Output (Half Pyramid)
+// Output (Half Pyramid) 
 //     *
 //     * *
 //     * * *
