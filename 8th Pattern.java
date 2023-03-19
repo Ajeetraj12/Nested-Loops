@@ -13,7 +13,7 @@ public class Pattern {
     }
 }
 
-// Output (Floyed's Triangle)
+// Output (Floyed's Triangle) 
 // 1 
 // 2 3 
 // 4 5 6 
