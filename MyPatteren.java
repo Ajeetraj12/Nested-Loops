@@ -60,7 +60,7 @@ public class MyPatteren {
 
 // Output (My Pattern)
 // *         * 
-// * *       * * 
+// * *       * *  
 // * * *     * * * 
 // * * * *   * * * * 
 // * * * * * * * * * * 
