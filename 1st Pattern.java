@@ -15,7 +15,7 @@ public class Patterns {
        }
    }
 }
-//Output
+//Output (Solid Recangle)
 // * * * * *
 // * * * * *
 // * * * * *
