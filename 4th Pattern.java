@@ -12,7 +12,7 @@ class Pattern {
 }
 
 // Oputput (Inverted Half Pyramid)
-//     * * * *
+//     * * * * 
 //     * * *
 //     * *
 //     *
