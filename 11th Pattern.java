@@ -18,10 +18,10 @@ public class Main {
 }
 
 
-Print the Pattern
+// Print the Pattern
 
-    * * * * * 
-   * * * * * 
-  * * * * * 
- * * * * * 
-* * * * * 
+//     * * * * * 
+//    * * * * * 
+//   * * * * * 
+//  * * * * * 
+// * * * * * 
